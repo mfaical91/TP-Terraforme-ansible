@@ -1,0 +1,3 @@
+ce playbbok permet d'installer docker sur des machines EC2 aws
+voici la commande
+ansible-playbook -i hosts playbook.yml
